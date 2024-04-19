@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Upcasting, Downcasting, Reflectionn\\nezerye\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDAC649-137E-478B-8F2E-90397125C864}|nezerye\\nezerye.csproj|c:\\users\\hp\\onedrive\\desktop\\upcasting, downcasting, reflectionn\\nezerye\\nezerye\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDAC649-137E-478B-8F2E-90397125C864}|nezerye\\nezerye.csproj|solutionrelative:nezerye\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Upcasting, Downcasting, Reflectionn\\nezerye\\nezerye\\Program.cs",
+              "RelativeDocumentMoniker": "nezerye\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Upcasting, Downcasting, Reflectionn\\nezerye\\nezerye\\Program.cs",
+              "RelativeToolTip": "nezerye\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:22:44.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
